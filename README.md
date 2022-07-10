@@ -3,7 +3,7 @@ Algorithm Sudy
 
 
 컴퓨터과학부 알고리즘 스터디입니다. 
-![6472096](https://user-images.githubusercontent.com/76519535/178149403-e1f8db51-16cc-45ac-8cbc-1f89930176f7.jpg)
+![image](https://user-images.githubusercontent.com/76519535/178149502-5783c74b-154d-489b-b4cd-d09e04a6bf34.png)
 
 ## 기간 
 7월 11일 - 8월 15일 (5주, 10회 진행) 
