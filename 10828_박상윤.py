@@ -6,7 +6,7 @@ def push(X):
 
 def pop():
     if len(st)!=0:
-        st.popleft()
+        #st.popleft()
         print(st.popleft())
     else:
         print('-1')
@@ -32,14 +32,15 @@ n=int(input(''))
 for a in range(n):
     command=sys.stdin.readline().split()
     
-    if command[0]==top:
+    if command[0]=="top":
         top()
-    elif command[0]==size:
+    elif command[0]=="size":
         size()
-    elif command[0]==empty:
+    elif command[0]=="empty":
         empty()
-    elif command[0]==pop:
+    elif command[0]=="pop":
         pop()
-    elif command[0]==push:
+    elif command[0]=="push":
         push(command[1])
+    print(st)
     
