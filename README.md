@@ -13,3 +13,6 @@ Algorithm Sudy
 
 ## 개요
 코딩테스트를 완벽히 대비하기보단 알고리즘 공부를 통해 문제의 적절한 접근법을 공부하여 코딩테스트에 도전하는 것에 의의를 둔다. 💡
+
+## 링크 
+https://smooth-amber-a51.notion.site/CODE-BAERRY-1ad47d4ed4a6429cb6f919d55b8f02b7
